@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>192716740254-d2r5o1sdp0phc7d8bmi2sjao4nug1ehr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.192716740254-d2r5o1sdp0phc7d8bmi2sjao4nug1ehr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCr7GMcO2rTxlbnFSLiMQqT742t4YGyntI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>192716740254</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>E-Mark.AGU-ADMIN</string>
+	<key>PROJECT_ID</key>
+	<string>aguu-e3160</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aguu-e3160.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:192716740254:ios:c0dbf595be38b807</string>
+	<key>DATABASE_URL</key>
+	<string>https://aguu-e3160.firebaseio.com</string>
+</dict>
+</plist>
